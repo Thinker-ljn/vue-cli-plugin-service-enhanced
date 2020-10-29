@@ -1,0 +1,17 @@
+{
+  "name": "vue-cli-plugin-service-enhanced",
+  "version": "0.1.0",
+  "description": "vue cli plugin for enhance service command, include auto reload service and inject runing mode environment",
+  "main": "index.js",
+  "author": "Thinker-ljn",
+  "license": "MIT",
+  "keywords": ["vue", "vue-cli", "vue-cli-plugin", "webpack", "vue-cli-auto-reload", "vue-cli-plugin-service-auto-reload"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thinker-ljn/vue-cli-plugin-service-enhanced.git"
+  },
+  "dependencies": {
+    "chokidar": "^3.4.2",
+    "lodash.debounce": "^4.0.8"
+  }
+}
