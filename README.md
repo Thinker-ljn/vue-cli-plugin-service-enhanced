@@ -1,6 +1,6 @@
 # vue-cli-plugin-service-enhanced
 
-启动 cli-service serve 服务后，监听以下文件，有改动的情况下，将会自动重启服务。其中\[mode] 为[当前指令运行时的模式](https://cli.vuejs.org/zh/guide/mode-and-env.html)
+启动 cli-service serve-enhanced 服务后，监听以下文件，有改动的情况下，将会自动重启服务。其中\[mode] 为[当前指令运行时的模式](https://cli.vuejs.org/zh/guide/mode-and-env.html)
 
 ```
   .env
